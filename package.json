@@ -1,0 +1,25 @@
+{
+  "name": "@zgo/tsconfig",
+  "version": "1.0.1",
+  "description": "> this is the tsconfigjson for myself",
+  "main": "tsconfig-node.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zgoby/tsconfig.git"
+  },
+  "keywords": [
+    "tsconfig"
+  ],
+  "author": "zgo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zgoby/tsconfig/issues"
+  },
+  "homepage": "https://github.com/zgoby/tsconfig#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org//"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "lib": ["es2020"],
+    "module": "commonjs",
+    "target": "es2020",
+    "moduleResolution": "node",
+
+    "useDefineForClassFields": true,
+    "noUnusedLocals": true,
+    "newLine": "lf",
+    "removeComments": true,
+    "resolveJsonModule": true,
+    "noEmitOnError": true,
+    "pretty": true,
+    "strict": false,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}
