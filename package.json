@@ -1,6 +1,6 @@
 {
   "name": "@zgo/tsconfig",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "> this is the tsconfigjson for myself",
   "main": "tsconfig-node.json",
   "scripts": {
